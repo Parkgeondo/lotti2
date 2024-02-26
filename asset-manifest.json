@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/lotti/static/css/main.bccf4a02.css",
+    "main.js": "/lotti/static/js/main.36db5e2a.js",
+    "static/js/787.9ca7c62f.chunk.js": "/lotti/static/js/787.9ca7c62f.chunk.js",
+    "static/media/dalmoori.ttf": "/lotti/static/media/dalmoori.8cef726c9c0e082c2f4a.ttf",
+    "static/media/background.png": "/lotti/static/media/background.774143e23f368d929939.png",
+    "static/media/loginPage.svg": "/lotti/static/media/loginPage.2d427d7833009ddd8c8debeaadd72e0c.svg",
+    "static/media/logoIcon.svg": "/lotti/static/media/logoIcon.69b1acc00021593bc04e1215336df15e.svg",
+    "index.html": "/lotti/index.html",
+    "main.bccf4a02.css.map": "/lotti/static/css/main.bccf4a02.css.map",
+    "main.36db5e2a.js.map": "/lotti/static/js/main.36db5e2a.js.map",
+    "787.9ca7c62f.chunk.js.map": "/lotti/static/js/787.9ca7c62f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bccf4a02.css",
+    "static/js/main.36db5e2a.js"
+  ]
+}
